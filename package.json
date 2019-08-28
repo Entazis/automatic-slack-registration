@@ -1,0 +1,16 @@
+{
+  "name": "headless-berry",
+  "version": "1.0.0",
+  "description": "Headless berry registers users into slack so they can join the community faster.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Entazis/automatic-slack-registration"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Entazis/automatic-slack-registration#readme"
+}
